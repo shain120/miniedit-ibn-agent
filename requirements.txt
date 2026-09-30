@@ -1,0 +1,4 @@
+# Python packages used by the optional cloud/LLM integrations.
+# Mininet/Containernet are system-provisioned; see README.md.
+boto3
+google-genai

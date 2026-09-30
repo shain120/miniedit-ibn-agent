@@ -30,6 +30,3 @@ python3 -m venv .venv
 sudo .venv/bin/python miniedit_ibn.py
 ```
 
-## 公開範圍
-
-這是精簡的備審展示版本，不包含 AWS 憑證、`.env`、工作階段資料、日誌、skills、產生內容、攻防實驗資料或完整執行環境，因此不保證能獨立執行所有功能。
